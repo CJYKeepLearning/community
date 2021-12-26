@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7995c143-6120-4218-bcb5-b623c4d57017" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/controller/AuthorizeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/controller/AuthorizeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/controller/NotificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/controller/NotificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/dto/AccessTokenDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/dto/AccessTokenDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/dto/GithubUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/dto/NotificationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/dto/NotificationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/CommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/CommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/NotificationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/NotificationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/QuestionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/QuestionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/CommentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/CommentExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/NotificationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/NotificationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/QuestionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/QuestionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/model/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/model/UserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/provider/GithubProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/provider/GithubProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foling/community/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foling/community/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Create_user_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Create_user_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/NotificationMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/NotificationMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/QuestionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/QuestionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/避坑记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/避坑记录.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1tHwtUX8XlheMTVTtuyIVvEghLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;mysql&#10;h2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/foling/community/provider" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SpringBootProject\community\src\main\resources\mapper" />
+      <recent name="E:\SpringBootProject\community\src\main\resources\templates" />
+      <recent name="E:\SpringBootProject\community\src\main\resources\static\picture" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\community\src\main\java\com\foling\community\provider" />
+      <recent name="F:\community\src\main\java\com\foling\community" />
+      <recent name="F:\community\src\main\resources\templates" />
+      <recent name="E:\SpringBootProject\community\src\main\resources" />
+      <recent name="E:\SpringBootProject\community\src\main\resources\static" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.foling.community.interceptor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommunityApplication">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/community/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="question.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/community/templates/question.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="community" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.foling.community.CommunityApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MAVEN_REPOSITORY$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.question.html" />
+      <item itemvalue="Spring Boot.CommunityApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.question.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7995c143-6120-4218-bcb5-b623c4d57017" name="Default Changelist" comment="" />
+      <created>1622439537282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622439537282</updated>
+      <workItem from="1622439547632" duration="6441000" />
+      <workItem from="1622457614248" duration="731000" />
+      <workItem from="1622459724878" duration="7995000" />
+      <workItem from="1622535083167" duration="270000" />
+      <workItem from="1622766547644" duration="10000" />
+      <workItem from="1626744855742" duration="10922000" />
+      <workItem from="1626762766452" duration="11264000" />
+      <workItem from="1626797555865" duration="2332000" />
+      <workItem from="1626829012683" duration="627000" />
+      <workItem from="1626829668212" duration="1594000" />
+      <workItem from="1626831313795" duration="542000" />
+      <workItem from="1626831881511" duration="38583000" />
+      <workItem from="1626925758951" duration="40756000" />
+      <workItem from="1627120553695" duration="10915000" />
+      <workItem from="1627138781786" duration="162000" />
+      <workItem from="1627174362575" duration="106633000" />
+      <workItem from="1628429379559" duration="592000" />
+      <workItem from="1628494081752" duration="601000" />
+      <workItem from="1628664919751" duration="107000" />
+      <workItem from="1629162725585" duration="134000" />
+      <workItem from="1629619696998" duration="804000" />
+      <workItem from="1629620936877" duration="83000" />
+      <workItem from="1629621045214" duration="1190000" />
+      <workItem from="1629632322314" duration="5835000" />
+      <workItem from="1630148534998" duration="66000" />
+      <workItem from="1638886857585" duration="669000" />
+      <workItem from="1638887535817" duration="180000" />
+      <workItem from="1638888895294" duration="864000" />
+      <workItem from="1638918369999" duration="4528000" />
+      <workItem from="1638933928869" duration="2986000" />
+      <workItem from="1638937716525" duration="145000" />
+      <workItem from="1638937870543" duration="133000" />
+      <workItem from="1638938074993" duration="865000" />
+      <workItem from="1639020821455" duration="149000" />
+      <workItem from="1639137913861" duration="6340000" />
+      <workItem from="1639150986336" duration="687000" />
+      <workItem from="1639151714443" duration="551000" />
+      <workItem from="1639194647111" duration="1132000" />
+      <workItem from="1639195921676" duration="980000" />
+      <workItem from="1639198021596" duration="5184000" />
+      <workItem from="1639219283477" duration="571000" />
+      <workItem from="1639395920172" duration="3604000" />
+      <workItem from="1639403421227" duration="347000" />
+      <workItem from="1639404377092" duration="534000" />
+      <workItem from="1639404931848" duration="2927000" />
+      <workItem from="1639409005822" duration="763000" />
+      <workItem from="1639436836216" duration="11835000" />
+      <workItem from="1639479339550" duration="911000" />
+      <workItem from="1639925201851" duration="167000" />
+      <workItem from="1639987499056" duration="228000" />
+      <workItem from="1640043702737" duration="22000" />
+      <workItem from="1640495342771" duration="4319000" />
+      <workItem from="1640502336352" duration="11587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639405185946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1639405185946" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640505457658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1640505457658" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1639404536192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1639404536192" />
+    <state x="486" y="206" key="FileChooserDialogImpl" timestamp="1640499598802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="206" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640499598802" />
+    <state width="1478" height="129" key="GridCell.Tab.0.bottom" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.0.center" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.0.left" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.0.right" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.1.bottom" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.1.center" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.1.left" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="129" key="GridCell.Tab.1.right" timestamp="1640524183263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="129" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640524183263" />
+    <state width="1478" height="225" key="GridCell.Tab.2.bottom" timestamp="1640510712570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="225" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640510712570" />
+    <state width="1478" height="225" key="GridCell.Tab.2.center" timestamp="1640510712570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="225" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1640510712570" />
+    <state width="1478" height="225" key="GridCell.Tab.2.left" timestamp="1640510712570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="225" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1640510712570" />
+    <state width="1478" height="225" key="GridCell.Tab.2.right" timestamp="1640510712570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="225" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1640510712570" />
+    <state width="227" height="477" key="HiddenNamespacesPopup" timestamp="1639404428469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="227" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1639404428469" />
+    <state x="502" y="96" key="Maven.ArtifactSearchDialog" timestamp="1639198130542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="96" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1639198130542" />
+    <state x="45" y="62" width="1038" height="731" key="SettingsEditor" timestamp="1640506864838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="45" y="62" width="1038" height="731" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640506864838" />
+    <state x="668" y="288" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1638934939306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="288" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1638934939306" />
+    <state x="675" y="288" width="334" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1639219600498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="675" y="288" width="334" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1639219600498" />
+    <state x="178" y="22" key="new project wizard" timestamp="1639987727938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1639987727938" />
+    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1640524297468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640524297468" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/foling/community/controller/AuthorizeController.java</url>
+          <line>50</line>
+          <properties class="com.foling.community.controller.AuthorizeController" method="newCallback">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/foling/community/provider/GiteeProvider.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/foling/community/controller/AuthorizeController.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/foling/community/controller/ProfileController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="accessToken" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/community$CommunityApplication.ic" NAME="CommunityApplication Coverage Results" MODIFIED="1640498687145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

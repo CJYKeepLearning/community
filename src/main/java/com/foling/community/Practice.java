@@ -1,8 +1,8 @@
 package com.foling.community;
 
 import com.foling.community.dto.AccessTokenDTO;
-import com.foling.community.dto.GithubUser;
 import com.foling.community.provider.GithubProvider;
+import com.foling.community.provider.dto.GithubUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

@@ -1,0 +1,72 @@
+.text-desc{
+    font-size: 12px;
+    font-weight: normal;
+    color: #999999;
+}
+.btn-publish{
+    float: right;
+    margin-bottom: 15px;
+}
+.media-object{
+    width: 38px;
+    height: 38px;
+}
+.media-body{
+    pading-top: 10px;
+}
+.question-title{
+    margin-top: 25px;
+}
+.question-tag{
+    margin-right: 5px;
+}
+.question-related{
+    line-height: 20px;
+    font-size: 12px;
+    mar-left: 0;
+    list-style: none;
+    padding-left: 0;
+}
+.profile .section{
+    margin-bottom: 15px;
+}
+.comment{
+    margin: 10px 0;
+}
+.btn-comment{
+    float: right;
+    mar-bottom: 10px;
+}
+.comment-sp{
+    margin-top: 0;
+}
+/*回复列表下的样式*/
+.comments{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eeeeee;
+}
+.sub-comments{
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #eeeeee;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+.sub-comments .btn{
+    margin: 10px 0;
+}
+.menu{
+    color: #999999;
+    margin-top: 5px;
+}
+.menu .icon{
+    margin-right: 6px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.menu .active{
+    color: #499ef3;
+}
+.menu .icon:hover{
+    color: #499ef3;
+}

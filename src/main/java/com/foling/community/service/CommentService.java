@@ -95,7 +95,7 @@ public class CommentService {
         notification.setReceiver(receiver);
         notification.setNotifierName(notifierName);
         notification.setOuterTitle(outerTitle);
-        notification.setOuterId(outerId);
+        notification.setOuterid(outerId);
         notification.setStatus(NotificationStatusEnum.NOREAD.getStatus());
         notificationMapper.insert(notification);
     }

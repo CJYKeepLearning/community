@@ -1,0 +1,1 @@
+delete from question where creator=1
